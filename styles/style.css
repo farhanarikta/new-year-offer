@@ -1,0 +1,17 @@
+.banner{
+ border:100px;
+ padding: 200px;
+ text: size 30px;
+ 
+ flex-shrink: 0;
+ border-radius: 16px;
+ color:white;
+ background-image: url('../resources/Banner\ Image.png');
+ background-size: 1320px,600px;
+ text-align: center;
+ opacity: 0.75;
+}
+.off{
+    color: red;
+    text-align: center;
+}

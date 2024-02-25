@@ -36,11 +36,12 @@ background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
  text-align: center;
  opacity: 0.75;
 }
+
 /*2. //65% offer section Style// */
 .off{
-    color: red;
-    text-align: center;
-    text-align: center;
+color: red;
+text-align: center;
+text-align: center;
 font-family: Inter;
 font-size: 88px;
 font-style: normal;
@@ -48,8 +49,8 @@ font-weight: 700;
 line-height: normal;
 }
 .categories{
-    p{
-        color: #F00;
+p{
+color: #F00;
 text-align: center;
 font-family: Inter;
 font-size: 24px;
@@ -69,7 +70,82 @@ line-height: normal;
 }
 
     }
-   #img2{
-    padding: 1oopx;
-   } 
-   
+    .img2{
+        padding-left: 220px;
+    }
+   /* //3.Welcome to party section styles// */
+   .joinnowsection{
+    border-radius: 20px;
+    background-repeat: no-repeat;
+    background-image: url(../resources/Vectorrr.png)
+    
+    
+   }
+   .btn{
+background-color:transparent;
+
+border-radius: 5px;
+align-items: center;
+padding-bottom: 10px;
+/* padding-left: 158px; */
+color: #FFF;
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+text-transform: uppercase;
+   }
+.welcome{
+color: #FFF;
+font-family: Merriweather;
+font-size: 64px;
+font-style: normal;
+font-weight: 900;
+line-height: 88px; /* 137.5% */
+letter-spacing: 7.04px;
+padding-right: 552px;
+/* padding-bottom: 298px; */
+padding-left: 126px;
+padding-top: 126px
+
+   }
+   .bestprice{
+color: rgba(255, 255, 255, 0.80);
+padding-left: 126px;
+padding-top: 25px;
+font-family: Inter;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px; /* 166.667% */
+   }
+   /* //4.portfolio section// */
+   .portfolio{
+    padding-top: 100px;
+   }
+   .bestgift{
+    color: #F00;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+   }
+   .bigtitle{
+    color: #070211;
+font-family: Merriweather;
+font-size: 48px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+text-transform: capitalize;
+   }
+/* //subscribe section style// */
+.subscribesection{
+    
+border-radius: 16px;
+background-color: rgba(255, 0, 0, 0.05);
+}
+

@@ -166,10 +166,13 @@ text-transform: capitalize;
     z-index:2;
     
 }
+.img4:hover{
+    transform: scale(1,-1.1);
+    z-index:2;
+     }
+ 
+     
     
-        
-
-   
    /* //coming soon section// */
    .comingsoonrow1{
     display: flex;
